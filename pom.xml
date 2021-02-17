@@ -123,8 +123,9 @@
         <fluido-skin.version>1.9</fluido-skin.version>
 
         <!-- Sonar -->
-        <sonar.host.url>https://builds.apache.org/analysis/</sonar.host.url>
-        <sonar.exclusions>apps/**</sonar.exclusions>
+        <sonar.projectKey>Mahyar1982_struts</sonar.projectKey>
+        <sonar.organization>mahyar1982</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
 
     <profiles>
